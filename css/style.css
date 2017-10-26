@@ -1,6 +1,10 @@
 /* Nav Bar CSS */
-
-
+.col-sm-12 {
+    background:pink;
+}
+img {
+    height:200px;
+}
 /* Header CSS */
 
 
